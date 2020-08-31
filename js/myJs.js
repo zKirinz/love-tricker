@@ -13,7 +13,7 @@ $(document).ready(function () {
 function firstQuestion() {
   $('.content').hide();
   Swal.fire({
-    title: 'He luu cậu!',
+    title: 'He luu cậu! Tớ là Kiên',
     text: 'Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.',
     imageUrl: 'img/cuteCat.jpg',
     imageWidth: 300,
