@@ -13,7 +13,7 @@ $(document).ready(function () {
 function firstQuestion() {
   $('.content').hide();
   Swal.fire({
-    title: 'He luu cậu! Tớ là Kiên',
+    title: 'He luu cậu! Tớ là Nhẩn',
     text: 'Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.',
     imageUrl: 'img/cuteCat.jpg',
     imageWidth: 300,
@@ -121,7 +121,7 @@ $('#yes').click(function () {
         text: 'Còn chờ gì nữa mà không inbox cho tớ đi nào hehe :))))',
         confirmButtonColor: '#83d0c9',
         onClose: () => {
-          window.location = 'https://www.facebook.com/kien123456k/';
+          window.location = 'https://www.facebook.com/vuabai.yugioh/';
         },
       });
     }
